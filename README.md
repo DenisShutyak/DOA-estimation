@@ -46,19 +46,19 @@ The comparison is based on [Rayleigh criterion](https://en.wikipedia.org/wiki/An
 
 Here are results:
 1) Ideal antenna array
-![идеальная_дн_сверхразрешение](https://user-images.githubusercontent.com/73283847/131495422-b3797bc2-5203-4453-b82e-c72d63040922.png)  
+![идеальная_дн_сверхразрешение](https://user-images.githubusercontent.com/73283847/131495422-b3797bc2-5203-4453-b82e-c72d63040922.png)
 
 2) Amplitude distribution with delta = 1 and raising the cosine to the power 1
-![дельта1степень1разрешение](https://user-images.githubusercontent.com/73283847/131495434-17405c4a-fe60-4453-b92f-59a5c0eaec28.png)  
+![дельта1степень1разрешение](https://user-images.githubusercontent.com/73283847/131495434-17405c4a-fe60-4453-b92f-59a5c0eaec28.png)
 
 3) Amplitude distribution with delta = 1 and raising the cosine to the power 2
-![дельта1степень2разрешение](https://user-images.githubusercontent.com/73283847/131495436-3d73c428-7538-4e5d-a5ab-1ef3db89780a.png)  
+![дельта1степень2разрешение](https://user-images.githubusercontent.com/73283847/131495436-3d73c428-7538-4e5d-a5ab-1ef3db89780a.png)
 
 4) Adding random error to elements positions up to 3 lengthwaves
-![3длинволн_разрешение](https://user-images.githubusercontent.com/73283847/131495430-6e196098-58d0-46fd-8404-60ea89d05b44.png)  
+![3длинволн_разрешение](https://user-images.githubusercontent.com/73283847/131495430-6e196098-58d0-46fd-8404-60ea89d05b44.png)
 
 5) Adding random error to elements positions up to 5 lengthwaves
-![5длинволн_разрешение](https://user-images.githubusercontent.com/73283847/131495432-65d589d3-a3d1-4b2d-86a3-a02dfab019b7.png)  
+![5длинволн_разрешение](https://user-images.githubusercontent.com/73283847/131495432-65d589d3-a3d1-4b2d-86a3-a02dfab019b7.png)
 
 
 # Neural network
