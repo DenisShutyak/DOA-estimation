@@ -21,11 +21,15 @@ Here you can see directional diagram of idela 10-element antenna array
 ![ideal_dd](https://user-images.githubusercontent.com/73283847/131486603-416cf551-21fb-450b-a8e0-77bd9fb8542c.png)
 
 Adding amplitude distribution with delta = 1 and raising the cosine to the power 1 and 2 leads to a significant decrease in the level on the sides of the center
+
 ![delta1power1dd](https://user-images.githubusercontent.com/73283847/131486545-46198d76-e33c-4b5d-a8ab-0372a4ef9084.png)
+
 ![delta1power2dd](https://user-images.githubusercontent.com/73283847/131486552-95afcef1-82cb-4f5a-a448-f2861ccf0d3a.png)
 
 Adding random error to elements positions leads to significant distortion
+
 ![3lambda](https://user-images.githubusercontent.com/73283847/131486556-a2b88a2e-2ad0-4916-b858-30780079ef93.png)
+
 ![5lambda](https://user-images.githubusercontent.com/73283847/131486558-6b229ba5-52e0-4499-83fc-b0a10f8ccd1a.png)
 
 This difference can be used to improve the performance of DoA algorithms.
@@ -43,14 +47,19 @@ The comparison is based on [Rayleigh criterion](https://en.wikipedia.org/wiki/An
 Here are results:
 1) Ideal antenna array
 ![идеальная_дн_сверхразрешение](https://user-images.githubusercontent.com/73283847/131495422-b3797bc2-5203-4453-b82e-c72d63040922.png)  
+
 2) Amplitude distribution with delta = 1 and raising the cosine to the power 1
 ![дельта1степень1разрешение](https://user-images.githubusercontent.com/73283847/131495434-17405c4a-fe60-4453-b92f-59a5c0eaec28.png)  
+
 3) Amplitude distribution with delta = 1 and raising the cosine to the power 2
 ![дельта1степень2разрешение](https://user-images.githubusercontent.com/73283847/131495436-3d73c428-7538-4e5d-a5ab-1ef3db89780a.png)  
+
 4) Adding random error to elements positions up to 3 lengthwaves
 ![3длинволн_разрешение](https://user-images.githubusercontent.com/73283847/131495430-6e196098-58d0-46fd-8404-60ea89d05b44.png)  
+
 5) Adding random error to elements positions up to 5 lengthwaves
 ![5длинволн_разрешение](https://user-images.githubusercontent.com/73283847/131495432-65d589d3-a3d1-4b2d-86a3-a02dfab019b7.png)  
+
 
 # Neural network
 
